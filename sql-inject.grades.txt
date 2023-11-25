@@ -1,0 +1,8 @@
+Labname sql-inject
+
+Student              |      curl_count |  selected_alice |
+==================== | =============== | =============== |
+twilliams05808_at_uc |               3 |               Y |
+What is automatically assessed for this lab:
+	selected_alice: selected the Alice record from the database
+	curl_count: count of times curl was run
